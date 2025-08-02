@@ -430,223 +430,223 @@
   },
   {
     "questionNumber": 41,
-    "question": "A ______________ if known by the insurer, would lead to the refusal to issue a life policy on the life proposed.",
+    "question": "Policy monies payable under a life policy or monies payable on the surrender of a life policy shall be paid",
     "options": {
-      "A": "simple fact",
-      "B": "material fact",
-      "C": "common fact",
-      "D": "special fact"
+      "A": "Less deduction for the medical expenses",
+      "B": "Without any deduction for monies not due under the policy",
+      "C": "Without the consent of persons entitled",
+      "D": "Only upon death or maturity of the policy"
     },
-    "answer": "B"
+    "answer": ""
   },
   {
     "questionNumber": 42,
-    "question": "An employer has insurable interest in the life of a key employee (shareholder or partner) whose ______________ could adversely affect the sustainability of the business.",
+    "question": "A life insurance policy will not lapse or be forfeited but may be converted to a paid-up policy if it has acquired____________ value.",
     "options": {
-      "A": "premature resignation",
-      "B": "early retirement",
-      "C": "premature death",
-      "D": "immediate termination"
+      "A": "A market",
+      "B": "A surrender",
+      "C": "An investment",
+      "D": "A residual"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 43,
-    "question": "Select from the following what a life insurer would do if, after the policy has been in force for three years, it is found the life insured’s age is different from what was stated in the life policy.",
+    "question": "Select the statement that is NOT correct concerning a rider.",
     "options": {
-      "A": "The life insurer will terminate the policy",
-      "B": "The life insurer will vary sum assured, premium and bonuses to reflect the actual age",
-      "C": "The life insurer will charge the life assured in court",
-      "D": "The life insurer will take no action"
+      "A": "It supplements a basic policy with additional coverage",
+      "B": "It provides bonus for customers",
+      "C": "It is an additional coverage at customer’s choice",
+      "D": "It includes additional benefits at an extra cost on top of the basic premium"
     },
-    "answer": "B"
+    "answer": ""
   },
   {
     "questionNumber": 44,
-    "question": "Identify when insurable interest needs to be present.",
+    "question": "_____________ insurance is the earliest and simplest form of life insurance for a fixed term or period and is not permanent.",
     "options": {
-      "A": "Before the death of the life assured",
-      "B": "At the inception of the policy",
-      "C": "During the death of the life assured",
-      "D": "At the maturity of the policy"
+      "A": "Whole life",
+      "B": "Investment-linked",
+      "C": "Endowment",
+      "D": "Term"
     },
-    "answer": "B"
+    "answer": ""
   },
   {
     "questionNumber": 45,
-    "question": "Policyholder Mr A decides to surrender his standard life policy after 4 years. He has no outstanding premium and the policy is in force. The surrender value he is entitled to is",
+    "question": "The term “assurance” in life assurance means coverage of an event that is ____________to happen.",
     "options": {
-      "A": "a sum allocated towards savings and the earnings less a surrender charge",
-      "B": "a sum allocated towards savings and earnings and with no other charges deducted",
-      "C": "the total sum assured with no deductions",
-      "D": "a sum allocated towards savings less a surrender charge"
+      "A": "Predicted",
+      "B": "Impossible",
+      "C": "Uncertain",
+      "D": "Certain"
     },
-    "answer": "A"
+    "answer": ""
   },
   {
     "questionNumber": 46,
-    "question": "Policy monies payable under a life policy or monies payable on the surrender of a life policy shall be paid",
+    "question": "Participating life insurance policyholders have the right to share in the divisible surplus of the life insurance fund if",
     "options": {
-      "A": "without the consent of persons entitled",
-      "B": "only upon death or maturity of the policy",
-      "C": "less deduction for the medical expenses",
-      "D": "without any deduction for monies not due under the policy"
+      "A": "The life assureds survive them",
+      "B": "There is a guaranteed insurability option on the policy",
+      "C": "The assets of the insurance fund exceed the liabilities",
+      "D": "There is a rider on the basic life insurance policy"
     },
-    "answer": "D"
+    "answer": ""
   },
   {
     "questionNumber": 47,
-    "question": "With regard to a life insurance proposal, _________________ is a material fact which, if known by the insurer, would have been declined, imposed higher premium loadings or limited policy coverage.",
+    "question": "Which of the following is an example of initial expenses?",
     "options": {
-      "A": "engagement in professional sports",
-      "B": "diagnosis of a terminal illness",
-      "C": "suspension of driving license",
-      "D": "active engagement in politics"
+      "A": "Litigation expenses",
+      "B": "Policy servicing expenses",
+      "C": "Claims payments expenses",
+      "D": "Advertising costs"
     },
-    "answer": "A"
+    "answer": ""
   },
   {
     "questionNumber": 48,
-    "question": "If a policy owner wants to surrender a life policy, the life insurance company will determine the surrender value entitlement\nI. in accordance with generally accepted actuarial principles\nII. in a manner ensuring fair treatment of the policy owner\nIII. in compliance with standards of business conduct\nIV. in accordance with LIFO and FIFO principles",
+    "question": "A life insurer can manage anti selection of risks by___________.",
     "options": {
-      "A": "I, II and III",
-      "B": "I, II and IV",
-      "C": "I, III and IV",
-      "D": "II, III and IV"
+      "A": "Proposing additional life policies to be taken up",
+      "B": "Reducing the death benefit or sum assured but on standard rates and premium",
+      "C": "Rejecting the proposal with no questions asked",
+      "D": "Referring the potential client to another insured"
     },
-    "answer": "A"
+    "answer": ""
   },
   {
     "questionNumber": 49,
-    "question": "The main purpose of life insurance is to provide________________ for dependents.",
+    "question": "In making comparisons with other types of policies or forms of investment, an agent should",
     "options": {
-      "A": "medical expenses",
-      "B": "emotional protection",
-      "C": "credit facility",
-      "D": "financial protection"
+      "A": "Make biased comparisons with the benefits, terms and conditions of policies from other insurers",
+      "B": "Induce the prospective policy owner to buy his products even if they are inferior to other products",
+      "C": "Persuade the prospective policy owner to cancel his existing policy of insurance",
+      "D": "Make clear distinction between the different characteristic of each policy or investment"
     },
-    "answer": "D"
+    "answer": ""
   },
   {
     "questionNumber": 50,
-    "question": "______________ insurance is the earliest and simplest form of life insurance for a fixed term or period and is not permanent.",
+    "question": "In obtaining underwriting information, an insurance agent should ensure the completion of the proposal form and the_______________.",
     "options": {
-      "A": "Endowment",
-      "B": "Whole life",
-      "C": "Term",
-      "D": "Investment-linked"
+      "A": "Credibility of the medical report",
+      "B": "Accuracy of relevant records",
+      "C": "Relevance of questions",
+      "D": "Integrity of personal data"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 51,
-    "question": "Non-participating life policyholders have no right to share in the ________________ of the insurer’s life insurance fund.",
+    "question": "Life insurance business is based on trust and honesty, requiring a high degree of responsibility and professionalism by insurance______________.",
     "options": {
-      "A": "distributable profits",
-      "B": "investment returns",
-      "C": "operating expenses",
-      "D": "divisible surplus"
+      "A": "Intermediaries",
+      "B": "Consumers",
+      "C": "Companies",
+      "D": "Brokers"
     },
-    "answer": "D"
+    "answer": ""
   },
   {
     "questionNumber": 52,
-    "question": "_______________ is/are the investments that a life office has made from the premiums it has received after meeting its outgoes in the form of claims and expenses.",
+    "question": "Which of the following is NOT among the duties of the agent?",
     "options": {
-      "A": "Surplus",
-      "B": "The market value",
-      "C": "Liability",
-      "D": "Assets"
+      "A": "To conduct business with utmost good faith and integrity",
+      "B": "To prevent misuse of information",
+      "C": "To let his own interest conflict with his obligations to the principal",
+      "D": "To ensure confidentiality of communication and transactions"
     },
-    "answer": "D"
+    "answer": ""
   },
   {
     "questionNumber": 53,
-    "question": "Group term life insurance is a benefit frequently offered by employers either on a contributory or non-contributory basis. ‘Non-contributory basis’ means premiums are",
+    "question": "Investment-linked insurance is also available in USA and it is named____________ life insurance.",
     "options": {
-      "A": "subsidized by the employer",
-      "B": "paid entirely by the employer",
-      "C": "paid by the government",
-      "D": "paid entirely by the employee"
+      "A": "Universal",
+      "B": "Multinational",
+      "C": "Variable",
+      "D": "International"
     },
-    "answer": "B"
+    "answer": ""
   },
   {
     "questionNumber": 54,
-    "question": "Which of the following statements best describes the investment-linked life insurance policy?",
+    "question": "The statement below is correct about regular premium investment-linked insurance:",
     "options": {
-      "A": "Protection and investment",
-      "B": "Protection for the whole of life",
-      "C": "Retirement fund and pension",
-      "D": "Saving and protection"
+      "A": "The minimum annual premium allowed by insurers is RM 5 000",
+      "B": "Bank Negara Malaysia guidelines do not stipulate the minimum annual premium",
+      "C": "Bank Negara Malaysia guidelines regarding minimum annual premium allowed must be followed",
+      "D": "The maximum annual premium allowed by insurers is RM 10 000"
     },
-    "answer": "A"
+    "answer": ""
   },
   {
     "questionNumber": 55,
-    "question": "In planning for his retirement, Tom purchased a deferred annuity which guaranteed him a stream of income after retirement. Unfortunately, Tom died midway through the 10-year contribution period. The premiums paid by Tom will be",
+    "question": "Identify the statement that is correct.",
     "options": {
-      "A": "returned with or without interest",
-      "B": "deferred to the next of kin or estate",
-      "C": "converted to an automatic premium loan",
-      "D": "considered as earned by the insurer"
+      "A": "Traditional insurance products are more transparent and flexible",
+      "B": "Investment-linked insurance products cater for more flexibilities and transparencies",
+      "C": "Traditional insurance products offer a better investment return",
+      "D": "Investment-linked insurance products offer a guaranteed return on investment"
     },
-    "answer": "A"
+    "answer": ""
   },
   {
     "questionNumber": 56,
-    "question": "The eligibility criteria to automatically add new employees to a group life policy from the date of recruitment is:",
+    "question": "Choose the statement that is correct regarding a regular premium investment-linked policy.",
     "options": {
-      "A": "All employees selected by an internal recruitment process",
-      "B": "Healthy employees under a contract of service regardless of age",
-      "C": "Permanent employees between the ages of 16 and 60",
-      "D": "Permanent and temporary workers with valid work permits"
+      "A": "Regular premium investment-linked insurance is more inclined towards investment than protection",
+      "B": "80% of the premium received by the insurer for regular premium investment-linked insurance is used to purchase fund units in the first year",
+      "C": "100% of the premium received for regular premium investment-linked insurance is used to purchase fund units in the first year",
+      "D": "Regular premium investment-linked insurance is more inclined towards protection than investment"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 57,
-    "question": "The term “level premium system” as applied to life insurance contracts means premiums are",
+    "question": "Donald, aged 56, wants to purchase an investment-linked form Triple Ace Insurance Berhad. If his basic regular premium is RM 6,000, he will be covered for a minimum of",
     "options": {
-      "A": "increased to commensurate with the increase in the amount of benefits",
-      "B": "lower initially and then level off at the end of the contract",
-      "C": "guaranteed to remain the same throughout the contract",
-      "D": "levelled to reflect the increase in the risk as policy matures"
+      "A": "RM 600,000",
+      "B": "RM 60,000",
+      "C": "RM 350,000",
+      "D": "RM 90,000"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 58,
-    "question": "Group life insurance premium is calculated differently compared to individual life insurance premium. It is",
+    "question": "If a policy owner makes top-ups on a single premium investment-linked policy,",
     "options": {
-      "A": "multiple rated",
-      "B": "lenient rated",
-      "C": "group rated",
-      "D": "experience rated"
+      "A": "Each top-up will increase the amount of coverage by 125%",
+      "B": "The charges for each top-up will be 5% and the balance will be used to purchase units in selected funds",
+      "C": "Each top-up will be calculated as bonus units",
+      "D": "Each top-up will be used to purchase units"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 59,
-    "question": "Identify why although life insurance companies use the same factors to determine premium rates, premiums differ.",
+    "question": "The following statement is correct regarding the deduction of the cost of insurance (COI) for single premium investment linked policies:",
     "options": {
-      "A": "Because of different asset valuation methods and provisions for liabilities",
-      "B": "Because of different capital reserve structures and investment methods",
-      "C": "Because of different cost structures, assessment of risk and investment returns",
-      "D": "Because of different distribution channels, branding and target markets"
+      "A": "The COI is used to cover the basic sum assured and future premium in advance",
+      "B": "Deduction of COI will be made annually in any circumstances",
+      "C": "The COI will still be deducted even though the account value exceeds the basic sum assured",
+      "D": "Deduction of COI is to cover the shortfall between the account value and the sum assured"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 60,
-    "question": "Which of the following is NOT among the sources of information for the life insurer in making a proper assessment of risk?",
+    "question": "Investors also have secondary objectives that are closer to their hearts, that are more focused on specific needs, one example is:",
     "options": {
-      "A": "Agents’s report",
-      "B": "Medical examiners report",
-      "C": "Police report",
-      "D": "Proposal form"
+      "A": "Saving up for funds for their children’s future business",
+      "B": "Ensuring a comfortable standard of living",
+      "C": "Ensuring a comfortable annual holiday for the family",
+      "D": "Guaranteeing a successful business operation"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 61,
