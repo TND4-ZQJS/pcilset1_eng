@@ -650,442 +650,134 @@
   },
   {
     "questionNumber": 61,
-    "question": "In the assumption of risk by a life insurer, the life insurer",
+    "question": "To ascertain the correct mix of objectives that client has and to realise the completion of these objectives, the agent has to make sure that clients are given a sound understanding of how __________.",
     "options": {
-      "A": "must have underwritten the risk",
-      "B": "must have received acknowledgment from the client that they have received the policy document",
-      "C": "may allow a backdating of the commencement date of insurance in some cases to take advantage of a reduced premium",
-      "D": "must have received the total yearly premium after the issuance of the acceptance letter"
+      "A": "The expert decides",
+      "B": "To achive high return",
+      "C": "Investments work",
+      "D": "To do technical analysis"
     },
-    "answer": "D"
+    "answer": ""
   },
   {
     "questionNumber": 62,
-    "question": "The following is NOT one of the methods of accepting sub-standard lives:",
-    "options": {
-      "A": "Charging the same premium but decreasing the death benefit",
-      "B": "Declining coverage limitation",
-      "C": "Charging a single premium",
-      "D": "Charging an extra premium"
-    },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 63,
-    "question": "Following the death of the insured, a claimant must ________________ to begin the claim and pay-out process.",
-    "options": {
-      "A": "notify the insurance company or agent",
-      "B": "submit the death certificate",
-      "C": "complete a claim form",
-      "D": "make a police report"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 64,
-    "question": "Before paying a maturity claim under an endowment insurance, the life office requires",
-    "options": {
-      "A": "proof of age of the life insured",
-      "B": "proof of the death of the life assured",
-      "C": "the name of the trustees",
-      "D": "the name of the beneficiaries"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 65,
-    "question": "Which of the following statements about the payment of policies monies under a life policy is true?",
-    "options": {
-      "A": "Where the policy owner dies without having made a nomination, the insurer will pay the policy monies to the lawful executor or administrator of the estate",
-      "B": "If there is no lawful executor or administrator and no nomination, the insurer will pay the policy monies to the trustee",
-      "C": "A nomination by a Muslim policy owner creates a trust in favour of the nominee",
-      "D": "Monies payable upon the death of a policy owner form part of the estate of the insured and subject to his or her debts"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 66,
-    "question": "In obtaining underwriting information, an insurance agent should ensure the completion of the proposal form and the________________.",
-    "options": {
-      "A": "credibility of the medical report",
-      "B": "accuracy of relevant records",
-      "C": "integrity of personal data",
-      "D": "relevance of questions"
-    },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 67,
-    "question": "A life insurance agent must ensure that the policy proposed is suitable to the needs and is within the_______________ of the prospective policy owner.",
-    "options": {
-      "A": "ability",
-      "B": "authority",
-      "C": "desires",
-      "D": "resources"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 68,
-    "question": "In relation to existing policyholders,",
-    "options": {
-      "A": "agents shall render all reasonable assistance help the client secure the next life insurance policy applied for",
-      "B": "agents shall render all reasonable assistance to clients and their family members including financial assistance needed by the clients’ children",
-      "C": "agents shall render all reasonable assistance to claimants in filing claims forms and complying with the requirement related to claim settlement",
-      "D": "agents shall render all reasonable financial resources to assist clients in all circumstances including paying the life insurance premium"
-    },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 69,
-    "question": "If a group life insurance is arranged for persons in relation to whom the group policy owner has no insurable interest, it is NOT necessary for the agent to disclose to each of the insured persons",
-    "options": {
-      "A": "the premium charged by the licensed insurer",
-      "B": "the policy terms offered by a competitor",
-      "C": "the name of the licensed insurer",
-      "D": "his relationship with the insurer"
-    },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 70,
-    "question": "In drawing attention to the consequences of failure to disclose all material facts, the agent should _______________.",
-    "options": {
-      "A": "warrant that all answers given in the proposal form are accurate and no information is hidden",
-      "B": "make it clear that all answers or statements are the proposer’s own responsibility",
-      "C": "assist the proposer in answering the questions in the proposal form to the best of his ability",
-      "D": "make a statutory declaration that the statements made in the proposal form are true and to the best of his knowledge"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 71,
-    "question": "Investment-linked insurance is also available in USA and it is named______________ life insurance.",
-    "options": {
-      "A": "multinational",
-      "B": "universal",
-      "C": "international",
-      "D": "variable"
-    },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 72,
-    "question": "Choose the statement that is correct regarding a regular premium investment-linked policy.",
-    "options": {
-      "A": "Regular premium investment-linked insurance is more inclined towards protection than investment",
-      "B": "Regular premium investment-linked insurance is more inclined towards investment than protection",
-      "C": "100% of the premium received for regular premium investment-linked insurance is used to purchase fund units in the first year",
-      "D": "80% of the premium received by the insurer for regular premium investment-linked insurance is used to purchase fund units in the first year"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 73,
-    "question": "The statement below is correct about regular premium investment-linked insurance:",
-    "options": {
-      "A": "The minimum annual premium allowed by insurers is RM5,000",
-      "B": "Bank Negara Malaysia guidelines regarding minimum annual premium allowed must be followed",
-      "C": "Bank Negara Malaysia guidelines do not stipulate the minimum annual premium",
-      "D": "The maximum annual premium allowed by insurers is RM10,000"
-    },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 74,
-    "question": "On the tenth year of the investment-linked policy, the account value is insufficient to cover the cost of insurance. Select the statement that explains what will happen to the policy in this case",
-    "options": {
-      "A": "The policy will be terminated",
-      "B": "The policy will be frozen",
-      "C": "The policy will lapse",
-      "D": "The no-lapse guarantee period will trigger"
-    },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 75,
-    "question": "One of the particularly important conditions to be satisfied before an investment-linked policy can be considered as not lapsed even if the account value is insufficient to cover the COI and other necessary charge is",
-    "options": {
-      "A": "the regular premium has been paid without fail",
-      "B": "investment requests like fund switching have been made",
-      "C": "the premium holiday has been effected only once",
-      "D": "partial withdrawal from the account value has been made"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 76,
-    "question": "Donald, aged 56, wants to purchase an investment-linked policy from Triple Ace Insurance Berhad. If his basic regular premium is RM6,000, he will be covered for a minimum of",
-    "options": {
-      "A": "RM360,000",
-      "B": "RM600,000",
-      "C": "RM60,000",
-      "D": "RM90,000"
-    },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 77,
-    "question": "For single premium investment-linked life insurance, once the account value exceeds the basic sum assured, the death benefit will be the",
-    "options": {
-      "A": "basic sum assured plus account value",
-      "B": "account value",
-      "C": "basic sum assured",
-      "D": "account value minus basic sum assured"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 78,
-    "question": "The following statement is correct regarding the deduction of the cost of insurance (COI) for single premium investment-linked policies:",
-    "options": {
-      "A": "Deduction of COI is to cover the shortfall between the account value and the sum assured",
-      "B": "The COI will still be deducted even though the account value exceeds the basic sum assured",
-      "C": "Deduction of COI will be made annually in any circumstances",
-      "D": "The COI is used to cover the basic sum assured and future premium in advance"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 79,
-    "question": "Identify which of the following is NOT benefit of purchasing an investment-linked policy.",
-    "options": {
-      "A": "Less diversification",
-      "B": "Flexibility",
-      "C": "Managed by professional fund managers",
-      "D": "Transparency"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 80,
-    "question": "Select the statement that is true of an investment-linked policy.",
-    "options": {
-      "A": "Premiums paid will only be used for specific investment funds of the policy owner’s choice from the range of funds available",
-      "B": "The cash value is 100% guaranteed by the insurer and any losses incurred during the policy tenure will be borne by the insurer",
-      "C": "Premiums paid provide life insurance cover and are also invested in specific investment funds of the policy owner’s choice",
-      "D": "The maturity benefit is equal to 60 times of the total premium paid during the tenure of the policy"
-    },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 81,
-    "question": "Identify the flexibility offered by an investment-linked policy which is NOT available with a whole life policy.",
-    "options": {
-      "A": "Availability for those aged 16",
-      "B": "Guaranteed cash value",
-      "C": "Policy loan",
-      "D": "Premium holiday"
-    },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 82,
-    "question": "The administration fee, insurance charge, fund management fee, etc. of an investment-linked life insurance policy are usually ______________.",
-    "options": {
-      "A": "not guaranteed",
-      "B": "fixed",
-      "C": "decided by Bank Negara Malaysia",
-      "D": "guaranteed"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 83,
-    "question": "Investors also have secondary objectives that are closer to their hearts, that are more focused on specific needs, one example is",
-    "options": {
-      "A": "ensuring a comfortable standard of living",
-      "B": "guaranteeing a successful business operation",
-      "C": "ensuring a comfortable annual holiday for the family",
-      "D": "saving up for funds for their children’s future business"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 84,
-    "question": "To ascertain the correct mix of objectives that client has and to realise the completion of these objectives, the agent has to make sure that clients are given a sound understanding of how ___________________.",
-    "options": {
-      "A": "investments work",
-      "B": "to achieve high return",
-      "C": "to do technical analysis",
-      "D": "the expert decides"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 85,
-    "question": "Clients must be told that there is a________________ trade-off and they must be able to accept this before venturing into a high-risk portfolio.",
-    "options": {
-      "A": "offer-acceptance",
-      "B": "buy-sell",
-      "C": "low-high",
-      "D": "risk-return"
-    },
-    "answer": "D"
-  },
-{
-  "questionNumber": 86,
-  "question": "Based on Kamal’s cash flow statement as given below, identify his surplus.\n\nIncome:\n- Salary: RM5,000\n- Rental: RM500\n- Commissions: RM1,000\n- Others: RM1,000\n\nExpenditure:\n- Rental/Housing Loan Payments: RM1,000\n- Groceries and Utilities: RM750\n- Childcare/Parent’s allowance: RM500\n- Education Expenses: RM250\n- Loan (Car, Credit cards, etc.): RM2,000\n- Insurance Premiums: RM500\n- Savings: RM500\n- Misc: RM1,000",
-  "options": {
-    "A": "RM700",
-    "B": "RM800",
-    "C": "RM900",
-    "D": "RM1,000"
-  },
-  "answer": "D"
-},
-  {
-    "questionNumber": 87,
-    "question": "This statement is true of______________ stocks: “If the company defaults, the investor has no security and thus is in the same position as all the other unsecured creditors of the company.”",
-    "options": {
-      "A": "loan",
-      "B": "ordinary",
-      "C": "debenture",
-      "D": "convertible"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 88,
-    "question": "In the discount market, the difference between the discounted price and the par value is represented as the_______________",
-    "options": {
-      "A": "profit",
-      "B": "interest",
-      "C": "coupon",
-      "D": "yield"
-    },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 89,
-    "question": "A capital guaranteed fund works in the following way:",
-    "options": {
-      "A": "The fund guarantees the invested capital while on the other hand, the return is decided by the investor at a specific rate",
-      "B": "The fund guarantees a profit while on the other hand, the return is capped at a specific rate although the actual investment experience may be lower",
-      "C": "The fund guarantees the invested capital while on the other hand, the return is decided at a specific rate although the actual investment experience may be lower",
-      "D": "The fund guarantees the invested capital while on the other hand, the return is capped at a specific rate although the actual investment experience may be higher"
-    },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 90,
-    "question": "Commodities represent an avenue for investors to gain from price movements and the popular way to do so is by",
-    "options": {
-      "A": "investing directly into commodities-based stocks",
-      "B": "purchasing stocks listed on Bursa Malaysia",
-      "C": "purchasing a futures contract",
-      "D": "purchasing a company involved in commodities"
-    },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 91,
-    "question": "Which of the following statement is NOT true regarding treasury bills?",
-    "options": {
-      "A": "Institutional investors are the main buyers of treasury bills",
-      "B": "Treasury bills are long-term government funding vehicles",
-      "C": "The difference between the discounted price and the par value represents the yield",
-      "D": "Treasury bills are issued by Bank Negara Malaysia"
-    },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 92,
-    "question": "The main activity of a property fund is",
-    "options": {
-      "A": "buying and selling of property in the secondary market",
-      "B": "buying and selling of property development companies",
-      "C": "investing of all the fund into real estate",
-      "D": "acquiring stocks in development companies"
-    },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 93,
-    "question": "The following statement about equities is correct:",
-    "options": {
-      "A": "Equity prices can be very steady when the stock market faces a downturn",
-      "B": "Equity prices can rise against the mainstream when the stock market faces a downturn",
-      "C": "Return potentials for equities can be significantly lower during periods of market buoyancy",
-      "D": "Return potentials for equities can be significantly higher during periods of market buoyancy"
-    },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 94,
-    "question": "The BNM Guidelines on Investment-Linked Business state that the initial offer period (of a new fund) must not",
-    "options": {
-      "A": "be less than two months",
-      "B": "exceed one month",
-      "C": "be less than one month",
-      "D": "exceed two months"
-    },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 95,
-    "question": "Regarding the requirement for minimum death benefits and top-up premiums:",
-    "options": {
-      "A": "Minimum death benefits do not apply to top-up premiums; the whole can be used to purchase units",
-      "B": "Minimum death benefits do not apply to top-up premiums but some must be used for leverage premium",
-      "C": "Minimum death benefits apply to top-up premiums; the whole cannot be used to purchase units",
-      "D": "There is a special requirement for top-ups; some must be used to pay COI"
-    },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 96,
-    "question": "When meeting with a prospective policy owner, the first and most important act of the life insurance agent is to",
-    "options": {
-      "A": "share benefits of investment-linked products and cost",
-      "B": "share disadvantages of competitors’ products",
-      "C": "identify his insurer and show his Authorisation Card",
-      "D": "declare his position and product he is selling"
-    },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 97,
-    "question": "A consequence of replacing a policy of the same type is:",
-    "options": {
-      "A": "Insured will enjoy lower premium",
-      "B": "New policy provides better benefits",
-      "C": "Replacement will be at a higher premium due to age",
-      "D": "New policy will be cheaper and improved"
-    },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 98,
-    "question": "Select how the objective of satisfying a customer’s requirements can be achieved.",
+    "question": "Generally, people invest for the following objectives:\nI. Hedging inflation\nII. Liabilities cancellation\nIII. Providing funds for child education\nIV. Delaying retirement age",
     "options": {
       "A": "I, II and III",
       "B": "I, II and IV",
       "C": "II, III and IV",
       "D": "I, II,III and IV"
     },
-    "answer": "A"
+    "answer": ""
   },
   {
-    "questionNumber": 99,
-    "question": "When an intermediary is supplied with an illustration by the insurer, they should",
+    "questionNumber": 63,
+    "question": "“The investor can convert his investment from a fixed interest loan to being a part-owner who is then entitled to a share of the company’s profits through dividends declared.” The statement best explains _____________ stocks.",
     "options": {
-      "A": "keep it in the form and explain verbally",
-      "B": "highlight only the attractive part",
-      "C": "show full illustration without altering it",
-      "D": "enhance the version to attract proposer"
+      "A": "Loan",
+      "B": "Ordinary",
+      "C": "Convertible",
+      "D": "Debenture"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
-    "questionNumber": 100,
-    "question": "What happens if a policy owner lapses a policy and purchases a new one?",
+    "questionNumber": 64,
+    "question": "Identify from the following those that are a type of fixed income securities.",
     "options": {
-      "A": "Old premium can be transferred",
-      "B": "Suicide and incontestable clauses reset",
-      "C": "Clauses are not disrupted",
-      "D": "New policy may be rejected as old is active"
+      "A": "Preference Shares",
+      "B": "Warrant Shares",
+      "C": "Stocks",
+      "D": "Ordinary Shares"
     },
-    "answer": "B"
+    "answer": ""
+  },
+  {
+    "questionNumber": 65,
+    "question": "Select the statement that is correct.",
+    "options": {
+      "A": "If we want to compare single premium investment-linked (SP-IL) life insurance with unit trusts (UTs), we can find no differences at all between them",
+      "B": "Withdrawals from EPF may not be made on a regular basis",
+      "C": "Malaysians who contribute to the Employees Provident Fund (EPF) are allowed to utilize a portion of their EPF account to invest in funds offered by approved unit trust operating companies",
+      "D": "The array of funds available for selection in the unit trust industry may generally be smaller than that offered by an insurance company"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 66,
+    "question": "Identify the three basic types of real estate investments.",
+    "options": {
+      "A": "Agricultural property, residential property and commercial/industrial property",
+      "B": "Development property, residential property and commercial/industrial property",
+      "C": "Agricultural property, residential property and high-rise/high-value property",
+      "D": "Development property, residential property and high-rise/high-value property"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 67,
+    "question": "Select the list of investments that is arranged in order of lowest risk to highest risk.",
+    "options": {
+      "A": "Property funds, equity funds, derivative funds",
+      "B": "Equity funds, derivative funds, property funds",
+      "C": "Derivative funds, equity funds, property funds",
+      "D": "Equity fund, property funds, derivative funds"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 68,
+    "question": "One consequence of ‘twisting’ by a life insurance agent is when the policy holder moves his policy from one insurer to another, the policy holder",
+    "options": {
+      "A": "Will not become eligible for any other policies and come under the non-forfeiture system",
+      "B": "Can commence a new policy to be qualified by the insurance company to become eligible for a surrender value and come under the specially funded system",
+      "C": "Can opt to stop the future payment of the old policy once the new one is approved. He will become eligible for a surrender value and come under non-forfeiture system",
+      "D": "Must commence again the qualifying period (usually two or three years) before the new insurance will become eligible for a surrender value and come under the non-forfeiture system"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 69,
+    "question": "With regard to the guidelines concerning the disclosure of underwriting information, the task of ensuring the proposer understands all the consequences of non-disclosure and inaccuracies is with the agent. To do this, the agent should",
+    "options": {
+      "A": "Make sure two witnesses are present during the meeting to protect the agent in case of a dispute",
+      "B": "Ensure all the consequences of non-disclosure and inaccuracies are pointed out personally to the proposer",
+      "C": "Make a video recording during the meeting to ensure that the proposer will not complain in the future",
+      "D": "Make sure that all the documents needed are available during the meeting and the proposer’s signature is on the documents"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 70,
+    "question": "If an intermediary realizes a prospective policy owner has a policy that is very much inferior compared to what his insurer offers, the",
+    "options": {
+      "A": "Intermediary should inform the prospective policy owner of all the benefits available in the policy his insurer offers as it will help influence the prospective policy owner to cancel his existing policy",
+      "B": "Intermediary should not attempt to persuade the prospective policy owner to cancel the existing unless it is clearly unsuitable for his needs",
+      "C": "Offers and the existing policy so the prospective policy owner will be influenced and decide to alter policy",
+      "D": "Intermediary should insist that the prospective policy owner purchase a new policy while continuing with the one he already has"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 71,
+    "question": "When an intermediary is supplied with an illustration by the insurer, the intermediary should",
+    "options": {
+      "A": "Highlight only the part of the illustration that will attract the proposer",
+      "B": "Use the whole illustration and show it to the proposer and not add it or hide any part of it",
+      "C": "Be creative and produce an enhanced version of the illustration to attract the proposer",
+      "D": "Keep the illustration in the proposal form and only provide a verbal explanation of the illustration to the proposer"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 72,
+    "question": "A prospective policy owner may ask the intermediary for advice concerning the technical aspect of investment. Identify what the intermediary should do:",
+    "options": {
+      "A": "The intermediary should offer his advice as he must be knowledgeable in all aspects of investment",
+      "B": "The intermediary should immediately offer advice, whether he is knowledgeable or not",
+      "C": "The intermediary should advise only on those matters in which he is competent and recommend another specialist if necessary",
+      "D": "The intermediary should inform the prospect that is not a big issue"
+    },
+    "answer": ""
   }
 ]
