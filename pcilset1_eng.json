@@ -1,5 +1,6 @@
 [
   {
+    "questionNumber": 1,
     "question": "When buying life insurance, an individual will benefit from___________.",
     "options": {
       "A": "compelled savings",
@@ -10,6 +11,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 2,
     "question": "The first stage in Risk Management is",
     "options": {
       "A": "transfer",
@@ -20,6 +22,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 3,
     "question": "The following differentiates insurance from gambling:",
     "options": {
       "A": "Insurable risks whose financial value is measurable",
@@ -30,6 +33,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 4,
     "question": "An example of moral hazard is",
     "options": {
       "A": "dishonest employees",
@@ -40,6 +44,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 5,
     "question": "The government and society as a whole are solely responsible for this type of risks:",
     "options": {
       "A": "Particular risks",
@@ -50,6 +55,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 6,
     "question": "In a life proposal where age is a material fact,_____________ is required to avoid a misrepresentation by the proposer.",
     "options": {
       "A": "the death certificate",
@@ -60,6 +66,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 7,
     "question": "A policy owner must have attained ____________ of age to nominate a person to receive monies under a life or personal accident policy upon his death.",
     "options": {
       "A": "15 years",
@@ -70,6 +77,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 8,
     "question": "‘The active efficient cause that sets in motion a chain of events which brings about a result, without intervention of any force started and working actively from a new independent source’. This is the definition of",
     "options": {
       "A": "remote cause",
@@ -80,6 +88,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 9,
     "question": "The requirement of insurable interest is merely to ensure that insurance is not abused for the speculation, wagering or ____________.",
     "options": {
       "A": "Gambling",
@@ -90,6 +99,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 10,
     "question": "For non-consumer insurance contracts, the following will NOT be exempted from the duty of disclosure by the proposer:",
     "options": {
       "A": "Information the insurer is expected to know in the course of their business",
@@ -100,6 +110,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 11,
     "question": "In the absence of any specific questions in the proposal form, an insured is not required to disclose a fact that ___________.",
     "options": {
       "A": "Diminishes the risk to insurer",
@@ -110,6 +121,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 12,
     "question": "Where there is a double insurance and the relevant policies contain a contribution condition the insured is obliged to claim against both insurers. The amount recoverable from each of the insurers is",
     "options": {
       "A": "An equal proportion of the loss irrespective of the sums insured",
@@ -120,6 +132,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 13,
     "question": "Which of the following is NOT a money laundering activity?",
     "options": {
       "A": "Consolidation",
@@ -130,7 +143,8 @@
     "answer": ""
   },
   {
-    "question": "Which of the following are the underlaying concepts that drive the acceptance of the takaful system in Malaysia?\nI. Pietty\nII. Tabarru’\nIII. Protect\nIV. Mutual assistance",
+    "questionNumber": 14,
+    "question": "Which of the following are the underlying concepts that drive the acceptance of the takaful system in Malaysia?\nI. Pietty\nII. Tabarru’\nIII. Protect\nIV. Mutual assistance",
     "options": {
       "A": "I, II and III",
       "B": "I, II and IV",
@@ -140,6 +154,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 15,
     "question": "Identify which of the following are NOT covered by the provisions of Perbadanan Insurans Deposit Malaysia (PIDM).",
     "options": {
       "A": "Reinsurance companies",
@@ -150,6 +165,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 16,
     "question": "The following are among what the data user needs to consider to comply with the principle of security under Personal Data Protection Act 2010 (PDPA).\nI. The nature of personal data\nII. The harm that would result from such misconduct\nIII. The place or location where the personal data is stored\nIV. The model of the server used",
     "options": {
       "A": "I, II and III",
@@ -160,6 +176,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 17,
     "question": "The Competition Act 2010 came into force",
     "options": {
       "A": "to encourage healthy competition among retailers",
@@ -170,6 +187,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 18,
     "question": "What are the primary objectives of the Financial Services Act 2013 (FSA) and the Islamic Financial Services Act 2013 (IFSA)?\nI. To strengthen business conduct and consumer protection\nII. To provide differentiated regulatory requirements that reflect the nature of financial intermediation activities and their risks to the overall financial system\nIII. To regulate financial holding companies and non-regulated entities\nIV. To strengthen provisions for effective and early enforcement and supervisory intervention",
     "options": {
       "A": "I and II",
@@ -180,6 +198,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 19,
     "question": "An insurance contract is",
     "options": {
       "A": "A legally binding agreement between insured and the insurer",
@@ -190,6 +209,7 @@
     "answer": ""
   },
   {
+    "questionNumber": 20,
     "question": "A key characteristic for a contract to be considered legally binding is the",
     "options": {
       "A": "Mutual agreement arising out of goodwill",
